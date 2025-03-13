@@ -36,7 +36,7 @@
         </ul>
         
         <div class="cta">
-            <a href="https://api.whatsapp.com/send?phone=SEU_NUMERO" target="_blank">📞 Fale com um Especialista Agora!</a>
+            <a href="https://api.whatsapp.com/send?phone=62992025205" target="_blank">📞 Fale com um Especialista Agora!</a>
         </div>
     </div>
     
